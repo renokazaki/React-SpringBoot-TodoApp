@@ -1,11 +1,13 @@
 # Backend
 backend/build/
 backend/.gradle/
+backend/src/main/resources/application.properties
 
 # Frontend
 frontend/node_modules/
 frontend/dist/
 frontend/build/
+frontend/.env
 
 # IDE
 .vscode/
